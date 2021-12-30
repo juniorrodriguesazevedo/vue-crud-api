@@ -19,4 +19,6 @@ npm install
 npm run serve
 ```
 
+<br>
+
 <img src="https://i.imgur.com/uqJlfCh.gif" alt="Minha Figura">
