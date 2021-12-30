@@ -20,6 +20,5 @@ npm run serve
 ```
 
 <br>
-<center>
-    <img src="https://i.imgur.com/uqJlfCh.gif" alt="Minha Figura">
-</center>
+
+<img src="https://i.imgur.com/uqJlfCh.gif" alt="Minha Figura">
