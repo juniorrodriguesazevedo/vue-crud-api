@@ -56,7 +56,12 @@ export default {
           window.location.href = "/";
         })
         .catch((error) => {
-          console.error(error);
+          const errors = error.response.data.errors;
+          console.log(errors);
+          for (const error in errors) {
+            const element = errors[error];
+            alert(element);
+          }
         });
     },
 
